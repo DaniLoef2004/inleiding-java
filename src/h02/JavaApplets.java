@@ -3,7 +3,7 @@ package h02;
 import java.awt.*;
 import java.applet.*;
 
-public class AppletTest extends Applet {
+public class JavaApplets extends Applet {
 
     public void init() {
         setBackground(Color.blue);
@@ -11,6 +11,6 @@ public class AppletTest extends Applet {
 
     public void paint(Graphics g) {
         g.setColor(Color.yellow);
-        g.drawString("James is a Nazi", 50, 60 );
+        g.drawString("Dani Loef", 50, 60 );
     }
 }

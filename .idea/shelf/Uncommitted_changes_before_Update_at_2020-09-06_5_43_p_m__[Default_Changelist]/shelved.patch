@@ -1,0 +1,315 @@
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"EntryPointsManager\">\r\n    <entry_points version=\"2.0\" />\r\n  </component>\r\n  <component name=\"MavenImportPreferences\">\r\n    <option name=\"generalSettings\">\r\n      <MavenGeneralSettings>\r\n        <option name=\"mavenHome\" value=\"Bundled (Maven 3)\" />\r\n      </MavenGeneralSettings>\r\n    </option>\r\n  </component>\r\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"false\">\r\n    <OptionsSetting value=\"true\" id=\"Add\" />\r\n    <OptionsSetting value=\"true\" id=\"Remove\" />\r\n    <OptionsSetting value=\"true\" id=\"Checkout\" />\r\n    <OptionsSetting value=\"true\" id=\"Update\" />\r\n    <OptionsSetting value=\"true\" id=\"Status\" />\r\n    <OptionsSetting value=\"true\" id=\"Edit\" />\r\n    <ConfirmationsSetting value=\"0\" id=\"Add\" />\r\n    <ConfirmationsSetting value=\"0\" id=\"Remove\" />\r\n  </component>\r\n  <component name=\"ProjectRootManager\" version=\"2\" languageLevel=\"JDK_1_8\" default=\"true\" assert-keyword=\"true\" jdk-15=\"true\" project-jdk-name=\"1.8\" project-jdk-type=\"JavaSDK\">\r\n    <output url=\"file://$PROJECT_DIR$/out\" />\r\n  </component>\r\n  <component name=\"masterDetails\">\r\n    <states>\r\n      <state key=\"ProjectJDKs.UI\">\r\n        <settings>\r\n          <last-edited>1.7</last-edited>\r\n          <splitter-proportions>\r\n            <option name=\"proportions\">\r\n              <list>\r\n                <option value=\"0.2\" />\r\n              </list>\r\n            </option>\r\n          </splitter-proportions>\r\n        </settings>\r\n      </state>\r\n    </states>\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/misc.xml	(revision 1d93ca557a41afc2d6e4d60b0d696b8b88ef9245)
++++ .idea/misc.xml	(date 1599213319573)
+@@ -1,8 +1,5 @@
+ <?xml version="1.0" encoding="UTF-8"?>
+ <project version="4">
+-  <component name="EntryPointsManager">
+-    <entry_points version="2.0" />
+-  </component>
+   <component name="MavenImportPreferences">
+     <option name="generalSettings">
+       <MavenGeneralSettings>
+@@ -10,17 +7,7 @@
+       </MavenGeneralSettings>
+     </option>
+   </component>
+-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+-    <OptionsSetting value="true" id="Add" />
+-    <OptionsSetting value="true" id="Remove" />
+-    <OptionsSetting value="true" id="Checkout" />
+-    <OptionsSetting value="true" id="Update" />
+-    <OptionsSetting value="true" id="Status" />
+-    <OptionsSetting value="true" id="Edit" />
+-    <ConfirmationsSetting value="0" id="Add" />
+-    <ConfirmationsSetting value="0" id="Remove" />
+-  </component>
+-  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" assert-keyword="true" jdk-15="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
++  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+     <output url="file://$PROJECT_DIR$/out" />
+   </component>
+   <component name="masterDetails">
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- .idea/workspace.xml	(date 1599406616500)
++++ .idea/workspace.xml	(date 1599406616500)
+@@ -0,0 +1,269 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="BranchesTreeState">
++    <expand>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++      <path>
++        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
++        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
++      </path>
++    </expand>
++    <select />
++  </component>
++  <component name="ChangeListManager">
++    <list default="true" id="ea9aa31f-007c-4411-b04e-a2431ce6289d" name="Default Changelist" comment="">
++      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/src/h02/AppletTest.java" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
++    </list>
++    <option name="SHOW_DIALOG" value="false" />
++    <option name="HIGHLIGHT_CONFLICTS" value="true" />
++    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
++    <option name="LAST_RESOLUTION" value="IGNORE" />
++  </component>
++  <component name="FileTemplateManagerImpl">
++    <option name="RECENT_TEMPLATES">
++      <list>
++        <option value="Class" />
++      </list>
++    </option>
++  </component>
++  <component name="Git.Settings">
++    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
++  </component>
++  <component name="ProjectId" id="1h2N6JUX8dz1oPIqpnGAeFQiINy" />
++  <component name="ProjectLevelVcsManager">
++    <ConfirmationsSetting value="2" id="Add" />
++  </component>
++  <component name="ProjectViewState">
++    <option name="hideEmptyMiddlePackages" value="true" />
++    <option name="showLibraryContents" value="true" />
++  </component>
++  <component name="PropertiesComponent">
++    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
++    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
++    <property name="WebServerToolWindowFactoryState" value="false" />
++    <property name="aspect.path.notification.shown" value="true" />
++    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
++    <property name="node.js.detected.package.eslint" value="true" />
++    <property name="node.js.detected.package.tslint" value="true" />
++    <property name="node.js.path.for.package.eslint" value="project" />
++    <property name="node.js.path.for.package.tslint" value="project" />
++    <property name="node.js.selected.package.eslint" value="(autodetect)" />
++    <property name="node.js.selected.package.tslint" value="(autodetect)" />
++    <property name="project.structure.last.edited" value="Project" />
++    <property name="project.structure.proportion" value="0.0" />
++    <property name="project.structure.side.proportion" value="0.0" />
++    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
++  </component>
++  <component name="RecentsManager">
++    <key name="CopyClassDialog.RECENTS_KEY">
++      <recent name="h01" />
++    </key>
++    <key name="CreateClassDialog.RecentsKey">
++      <recent name="h02" />
++      <recent name="" />
++    </key>
++  </component>
++  <component name="RunManager" selected="Applet.Unnamed">
++    <configuration name="Unnamed" type="Applet" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="h02.AppletTest" />
++      <module name="inleiding-java" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="Applets" type="Application" factoryName="Application">
++      <option name="MAIN_CLASS_NAME" value="h02.AppletTest" />
++      <module name="inleiding-java" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="HalloRocDev" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
++      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
++      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
++      <option name="MAIN_CLASS_NAME" value="h01.HalloRocDev" />
++      <module name="inleiding-java" />
++      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/out/production/inleiding-java" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="h01.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <configuration name="JavaIntroductieApplets" type="Application" factoryName="Application">
++      <option name="MAIN_CLASS_NAME" value="h02.AppletTest" />
++      <module name="inleiding-java" />
++      <extension name="coverage">
++        <pattern>
++          <option name="PATTERN" value="h01.*" />
++          <option name="ENABLED" value="true" />
++        </pattern>
++      </extension>
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++    <list>
++      <item itemvalue="Applet.Unnamed" />
++      <item itemvalue="Application.Applets" />
++      <item itemvalue="Application.JavaIntroductieApplets" />
++      <item itemvalue="Application.HalloRocDev" />
++    </list>
++    <recent_temporary>
++      <list>
++        <item itemvalue="Application.HalloRocDev" />
++      </list>
++    </recent_temporary>
++  </component>
++  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
++  <component name="TaskManager">
++    <task active="true" id="Default" summary="Default task">
++      <changelist id="ea9aa31f-007c-4411-b04e-a2431ce6289d" name="Default Changelist" comment="" />
++      <created>1599205050344</created>
++      <option name="number" value="Default" />
++      <option name="presentableId" value="Default" />
++      <updated>1599205050344</updated>
++      <workItem from="1599205051419" duration="1032000" />
++      <workItem from="1599206128992" duration="414000" />
++      <workItem from="1599206624670" duration="66000" />
++      <workItem from="1599207005663" duration="620000" />
++      <workItem from="1599207636297" duration="38000" />
++      <workItem from="1599208283483" duration="728000" />
++      <workItem from="1599209292070" duration="17000" />
++      <workItem from="1599209933893" duration="1099000" />
++      <workItem from="1599212118581" duration="976000" />
++      <workItem from="1599213161764" duration="435000" />
++      <workItem from="1599213680702" duration="5000" />
++      <workItem from="1599214261614" duration="15000" />
++      <workItem from="1599214881059" duration="442000" />
++      <workItem from="1599215336225" duration="491000" />
++      <workItem from="1599215872307" duration="192000" />
++      <workItem from="1599216865752" duration="2730000" />
++      <workItem from="1599221836897" duration="2472000" />
++      <workItem from="1599225524793" duration="6000" />
++      <workItem from="1599225546831" duration="683000" />
++      <workItem from="1599226319556" duration="673000" />
++      <workItem from="1599247460862" duration="104000" />
++      <workItem from="1599247576403" duration="782000" />
++      <workItem from="1599248365365" duration="1564000" />
++      <workItem from="1599249937429" duration="1719000" />
++      <workItem from="1599335890851" duration="570000" />
++      <workItem from="1599336786698" duration="1081000" />
++      <workItem from="1599340134155" duration="212000" />
++      <workItem from="1599403921272" duration="2142000" />
++    </task>
++    <task id="LOCAL-00001" summary=".">
++      <created>1599205406264</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1599205406264</updated>
++    </task>
++    <option name="localTasksCounter" value="2" />
++    <servers />
++  </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++    <option name="oldMeFiltersMigrated" value="true" />
++  </component>
++  <component name="VcsManagerConfiguration">
++    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
++    <MESSAGE value="." />
++    <option name="LAST_COMMIT_MESSAGE" value="." />
++  </component>
++  <component name="WindowStateProjectService">
++    <state x="121" y="0" key="#Project_Structure" timestamp="1599247604479">
++      <screen x="0" y="0" width="1280" height="720" />
++    </state>
++    <state x="121" y="0" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1599247604479" />
++    <state x="1157" y="138" width="1092" height="1302" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599406146063">
++      <screen x="0" y="0" width="2560" height="1440" />
++    </state>
++    <state x="378" y="0" width="824" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1599337868132" />
++    <state x="1157" y="138" width="1092" height="1302" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599406146063" />
++    <state x="1494" y="679" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1599221223814">
++      <screen x="0" y="0" width="2560" height="1440" />
++    </state>
++    <state x="1494" y="679" key="#com.intellij.ide.util.PackageChooserDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599221223814" />
++    <state x="1547" y="615" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1599214890364">
++      <screen x="0" y="0" width="2560" height="1440" />
++    </state>
++    <state x="1547" y="615" width="433" height="217" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.2560.1440@0.0.2560.1440" timestamp="1599214890364" />
++    <state x="1543" y="462" key="FileChooserDialogImpl" timestamp="1599226140609">
++      <screen x="0" y="0" width="2560" height="1440" />
++    </state>
++    <state x="1543" y="462" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1599226140609" />
++    <state width="1414" height="261" key="GridCell.Tab.0.bottom" timestamp="1599406231883">
++      <screen x="0" y="0" width="2560" height="1440" />
++    </state>
++    <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1599337583453" />
++    <state width="1414" height="261" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1599406231883" />
++    <state width="1414" height="261" key="GridCell.Tab.0.center" timestamp="1599406231883">
++      <screen x="0" y="0" width="2560" height="1440" />
++    </state>
++    <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1599337583452" />
++    <state width="1414" height="261" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1599406231883" />
++    <state width="1414" height="261" key="GridCell.Tab.0.left" timestamp="1599406231883">
++      <screen x="0" y="0" width="2560" height="1440" />
++    </state>
++    <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1599337583452" />
++    <state width="1414" height="261" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1599406231883" />
++    <state width="1414" height="261" key="GridCell.Tab.0.right" timestamp="1599406231883">
++      <screen x="0" y="0" width="2560" height="1440" />
++    </state>
++    <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1599337583453" />
++    <state width="1414" height="261" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1599406231883" />
++    <state x="1423" y="441" key="RollbackChangesDialog" timestamp="1599215677472">
++      <screen x="0" y="0" width="2560" height="1440" />
++    </state>
++    <state x="1423" y="441" key="RollbackChangesDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599215677472" />
++    <state x="284" y="11" key="SettingsEditor" timestamp="1599247564439">
++      <screen x="0" y="0" width="1280" height="720" />
++    </state>
++    <state x="284" y="11" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1599247564439" />
++    <state x="1421" y="368" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1599207492380" />
++    <state x="1535" y="500" key="Vcs.Push.Dialog.v2" timestamp="1599205433512">
++      <screen x="0" y="0" width="2560" height="1440" />
++    </state>
++    <state x="1535" y="500" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1599205433512" />
++    <state x="1146" y="341" key="new project wizard" timestamp="1599209008470">
++      <screen x="0" y="0" width="2560" height="1440" />
++    </state>
++    <state x="1146" y="341" key="new project wizard/0.0.2560.1440@0.0.2560.1440" timestamp="1599209008470" />
++    <state x="394" y="344" width="672" height="678" key="search.everywhere.popup" timestamp="1599207487521">
++      <screen x="0" y="0" width="2560" height="1440" />
++    </state>
++    <state x="394" y="344" width="672" height="678" key="search.everywhere.popup/0.0.2560.1440@0.0.2560.1440" timestamp="1599207487521" />
++  </component>
++  <component name="com.intellij.coverage.CoverageDataManagerImpl">
++    <SUITE FILE_PATH="coverage/inleiding_java$Applets.ic" NAME="Applets Coverage Results" MODIFIED="1599221738688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
++    <SUITE FILE_PATH="coverage/inleiding_java$HalloRocDev.ic" NAME="HalloRocDev Coverage Results" MODIFIED="1599248339296" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
++      <FILTER>h01.*</FILTER>
++    </SUITE>
++  </component>
++</project>
+\ No newline at end of file
