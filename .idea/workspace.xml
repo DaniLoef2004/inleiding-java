@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea9aa31f-007c-4411-b04e-a2431ce6289d" name="Default Changelist" comment=".">
-      <change afterPath="$PROJECT_DIR$/src/h06/JavaGetallen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020-09-06_5_43_p_m___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2020-09-06_5_43_p_m___Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h06/JavaGetallen2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h06/JavaGetallen3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -73,9 +74,9 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Applet.JavaApplets2">
-    <configuration name="JavaApplets2" type="Applet" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="h02.JavaApplets2" />
+  <component name="RunManager" selected="Applet.JavaGetallen3">
+    <configuration name="JavaGetallen3" type="Applet" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="h06.JavaGetallen3" />
       <module name="inleiding-java" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,7 +132,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Applet.JavaApplets2" />
+      <item itemvalue="Applet.JavaGetallen3" />
       <item itemvalue="Application.Applets" />
       <item itemvalue="Application.JavaIntroductieApplets" />
       <item itemvalue="Application.HalloRocDev" />
@@ -184,7 +185,7 @@
       <workItem from="1599410000013" duration="297000" />
       <workItem from="1599410301485" duration="78000" />
       <workItem from="1599410382656" duration="110000" />
-      <workItem from="1599551798659" duration="933000" />
+      <workItem from="1599551798659" duration="4675000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1599205406264</created>
@@ -214,7 +215,42 @@
       <option name="project" value="LOCAL" />
       <updated>1599552666250</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=".">
+      <created>1599552733926</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1599552733926</updated>
+    </task>
+    <task id="LOCAL-00006" summary=".">
+      <created>1599552782490</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1599552782490</updated>
+    </task>
+    <task id="LOCAL-00007" summary=".">
+      <created>1599553021573</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1599553021573</updated>
+    </task>
+    <task id="LOCAL-00008" summary=".">
+      <created>1599554793846</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599554793846</updated>
+    </task>
+    <task id="LOCAL-00009" summary=".">
+      <created>1599554804560</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599554804560</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,11 +278,11 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="121" y="0" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1599247604479" />
-    <state x="1157" y="66" width="1092" height="1374" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599410491682">
+    <state x="1157" y="0" width="1092" height="1440" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599558467039">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="378" y="0" width="824" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1599337868132" />
-    <state x="1157" y="66" width="1092" height="1374" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599410491682" />
+    <state x="1157" y="0" width="1092" height="1440" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599558467039" />
     <state x="1494" y="679" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1599221223814">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -259,26 +295,26 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1543" y="462" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1599407707938" />
-    <state width="1414" height="261" key="GridCell.Tab.0.bottom" timestamp="1599410378738">
+    <state width="2517" height="259" key="GridCell.Tab.0.bottom" timestamp="1599558376534">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1599337583453" />
-    <state width="1414" height="261" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1599410378738" />
-    <state width="1414" height="261" key="GridCell.Tab.0.center" timestamp="1599410378738">
+    <state width="2517" height="259" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1599558376534" />
+    <state width="2517" height="259" key="GridCell.Tab.0.center" timestamp="1599558376534">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1599337583452" />
-    <state width="1414" height="261" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1599410378738" />
-    <state width="1414" height="261" key="GridCell.Tab.0.left" timestamp="1599410378738">
+    <state width="2517" height="259" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1599558376534" />
+    <state width="2517" height="259" key="GridCell.Tab.0.left" timestamp="1599558376534">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1599337583452" />
-    <state width="1414" height="261" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1599410378738" />
-    <state width="1414" height="261" key="GridCell.Tab.0.right" timestamp="1599410378738">
+    <state width="2517" height="259" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1599558376534" />
+    <state width="2517" height="259" key="GridCell.Tab.0.right" timestamp="1599558376534">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1599337583453" />
-    <state width="1414" height="261" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1599410378738" />
+    <state width="2517" height="259" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1599558376534" />
     <state x="1479" y="518" key="MultipleFileMergeDialog" timestamp="1599407013278">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -292,10 +328,10 @@
     </state>
     <state x="284" y="11" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1599247564439" />
     <state x="1421" y="368" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1599207492380" />
-    <state x="1535" y="500" key="Vcs.Push.Dialog.v2" timestamp="1599552052808">
+    <state x="1535" y="500" key="Vcs.Push.Dialog.v2" timestamp="1599554806281">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1535" y="500" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1599552052808" />
+    <state x="1535" y="500" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1599554806281" />
     <state x="1146" y="341" key="new project wizard" timestamp="1599209008470">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
