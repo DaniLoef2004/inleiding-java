@@ -23,13 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea9aa31f-007c-4411-b04e-a2431ce6289d" name="Default Changelist" comment=".">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/h10/JavaBeslissingenEindopdracht.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h11/JavaHerhaling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h09/JavaBeslissingen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h09/JavaBeslissingen2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h10/JavaBeslissingen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h10/JavaBeslissingen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/h10/JavaBeslissingen2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h10/JavaBeslissingen2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +39,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -84,7 +80,7 @@
   </component>
   <component name="RunManager" selected="Applet.JavaGetallen4">
     <configuration name="JavaGetallen4" type="Applet">
-      <option name="MAIN_CLASS_NAME" value="h10.JavaBeslissingen5" />
+      <option name="MAIN_CLASS_NAME" value="h11.JavaHerhaling" />
       <module name="inleiding-java" />
       <option name="WIDTH" value="800" />
       <method v="2">
@@ -195,7 +191,7 @@
       <workItem from="1599551798659" duration="18331000" />
       <workItem from="1599642361172" duration="12768000" />
       <workItem from="1599723040500" duration="26889000" />
-      <workItem from="1599911023729" duration="318000" />
+      <workItem from="1599911023729" duration="646000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1599205406264</created>
@@ -323,7 +319,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599831281019</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary=".">
+      <created>1599911498434</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1599911498434</updated>
+    </task>
+    <task id="LOCAL-00020" summary=".">
+      <created>1599911508534</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1599911508534</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -351,11 +361,11 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="121" y="0" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1599247604479" />
-    <state x="1157" y="0" width="1092" height="1440" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599832015657">
+    <state x="1157" y="0" width="1092" height="1440" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599911670514">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="378" y="0" width="824" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1599337868132" />
-    <state x="1157" y="0" width="1092" height="1440" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599832015657" />
+    <state x="1157" y="0" width="1092" height="1440" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1599911670514" />
     <state x="1494" y="679" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1599221223814">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -417,10 +427,10 @@
     </state>
     <state x="284" y="11" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1599247564439" />
     <state x="1421" y="368" key="SettingsEditor/0.0.2560.1440@0.0.2560.1440" timestamp="1599207492380" />
-    <state x="1535" y="500" key="Vcs.Push.Dialog.v2" timestamp="1599831282438">
+    <state x="1535" y="500" key="Vcs.Push.Dialog.v2" timestamp="1599911510065">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
-    <state x="1535" y="500" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1599831282438" />
+    <state x="1535" y="500" key="Vcs.Push.Dialog.v2/0.0.2560.1440@0.0.2560.1440" timestamp="1599911510065" />
     <state x="814" y="456" width="931" height="629" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1599816067431">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
