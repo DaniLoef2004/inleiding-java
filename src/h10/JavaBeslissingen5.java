@@ -4,35 +4,59 @@ import java.awt.*;
 import java.applet.*;
 import java.awt.event.*;
 
-
 public class JavaBeslissingen5 extends Applet {
+
     TextField tekstvak;
-    Label label;
-    String s, tekst;
+    String beoordeling;
+    String geslaagd;
+    Button knop;
+    double getal;
     double cijfer;
+    double gemiddelde;
+    int aantalCijfers;
 
     public void init() {
-        tekstvak = new TextField("", 20);
-        label = new Label("Voer je cijfer in:");
-        tekstvak.addActionListener( new TekstvakListener() );
-        tekst = "";
-        add(label);
+
+        tekstvak = new TextField("", 10);
         add(tekstvak);
+        knop = new Button("Ok");
+        knop.addActionListener( new knopListener() );
+        add(knop);
     }
 
     public void paint(Graphics g) {
-        g.drawString(tekst, 50, 60 );
+        g.drawString(beoordeling, 45, 70 );
+        g.drawString(geslaagd, 45, 90 );
+
     }
 
-    class TekstvakListener implements ActionListener {
-        public void actionPerformed(ActionEvent e) {
-            s = tekstvak.getText();
-            cijfer = Double.parseDouble(s);
-            if (cijfer > 5.4)  {
-                tekst = "Een " + cijfer + ", je hebt een voldoende!";
+    class knopListener implements ActionListener	{
+
+        public void actionPerformed( ActionEvent e ) {
+
+            cijfer = Double.parseDouble(tekstvak.getText());
+            aantalCijfers++;
+            getal =  cijfer + getal;
+            gemiddelde = getal / aantalCijfers;
+            tekstvak.setText("");
+            if (gemiddelde > 5.5){
+                geslaagd = gemiddelde + " Je bent geslaagd!";
             }
-            else {
-                tekst = "Een " + cijfer + ", je hebt een onvoldoende :(";
+
+            if (gemiddelde < 5.5){
+                geslaagd = gemiddelde + " Je bent gezakt.";
+            }
+
+            if (cijfer > 5.5){
+                beoordeling = cijfer + " Je hebt een voldoende!!!!";
+            }
+
+            if (cijfer < 5.5){
+                beoordeling = cijfer + " Je hebt een onvoldoende :(";
+            }
+
+            if (cijfer > 10){
+                cijfer = 10;
             }
             repaint();
         }
