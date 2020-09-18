@@ -5,7 +5,7 @@ import java.awt.*;
 import java.applet.*;
 import java.awt.event.*;
 
-public class JavaTabellen4 extends Applet {
+public class JavaTabellen5 extends Applet {
     boolean gevonden;
     int[] salaris = {32,4,3,54,234,46,3,6,233,3,464,5,5,476,2,335,5453,63,532,63,76,2,7,2,74,373,72,523,6347,266,43};
     int vind;
@@ -15,7 +15,7 @@ public class JavaTabellen4 extends Applet {
     public void init() {
         vind = 0;
         gevonden = false;
-        tekstvak = new TextField("", 10);
+        tekstvak = new TextField("", 20);
         add(tekstvak);
         okKnop = new Button("Ok");
         add(okKnop);
@@ -30,6 +30,7 @@ public class JavaTabellen4 extends Applet {
             while(index < salaris.length) {
                 if(salaris[index] == vind) {
                     gevonden = true;
+                    break;
                 }
                 index ++;
             }

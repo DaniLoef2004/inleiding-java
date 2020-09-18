@@ -23,6 +23,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ea9aa31f-007c-4411-b04e-a2431ce6289d" name="Default Changelist" comment=".">
+      <change afterPath="$PROJECT_DIR$/src/h12/JavaTabellen5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/h12/JavaTabellen6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/h12/JavaTabellen4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/h12/JavaTabellen4.java" afterDir="false" />
     </list>
@@ -80,7 +82,7 @@
   </component>
   <component name="RunManager" selected="Applet.JavaGetallen4">
     <configuration name="JavaGetallen4" type="Applet">
-      <option name="MAIN_CLASS_NAME" value="h12.JavaTabellen4" />
+      <option name="MAIN_CLASS_NAME" value="h12.JavaTabellen6" />
       <module name="inleiding-java" />
       <option name="WIDTH" value="300" />
       <method v="2">
@@ -189,7 +191,7 @@
       <workItem from="1599642361172" duration="12768000" />
       <workItem from="1599723040500" duration="26889000" />
       <workItem from="1599911023729" duration="2394000" />
-      <workItem from="1600080959975" duration="37343000" />
+      <workItem from="1600080959975" duration="39474000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1599205406264</created>
@@ -380,7 +382,14 @@
       <option name="project" value="LOCAL" />
       <updated>1600376742319</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary=".">
+      <created>1600418259421</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1600418259421</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -408,11 +417,11 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="121" y="0" key="#Project_Structure/0.0.1280.720@0.0.1280.720" timestamp="1599247604479" />
-    <state x="1157" y="0" width="1092" height="1440" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600354835309">
+    <state x="1157" y="0" width="1092" height="1440" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600420926490">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="378" y="0" width="824" height="720" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.720@0.0.1280.720" timestamp="1599337868132" />
-    <state x="1157" y="0" width="1092" height="1440" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1600354835309" />
+    <state x="1157" y="0" width="1092" height="1440" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1440@0.0.2560.1440" timestamp="1600420926490" />
     <state x="1494" y="679" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1599221223814">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
@@ -425,26 +434,26 @@
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state x="1543" y="462" key="FileChooserDialogImpl/0.0.2560.1440@0.0.2560.1440" timestamp="1599407707938" />
-    <state width="2517" height="259" key="GridCell.Tab.0.bottom" timestamp="1600415884842">
+    <state width="2517" height="259" key="GridCell.Tab.0.bottom" timestamp="1600420915441">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1237" height="176" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1599337583453" />
-    <state width="2517" height="259" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1600415884842" />
-    <state width="2517" height="259" key="GridCell.Tab.0.center" timestamp="1600415884842">
+    <state width="2517" height="259" key="GridCell.Tab.0.bottom/0.0.2560.1440@0.0.2560.1440" timestamp="1600420915441" />
+    <state width="2517" height="259" key="GridCell.Tab.0.center" timestamp="1600420915440">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1237" height="176" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1599337583452" />
-    <state width="2517" height="259" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1600415884842" />
-    <state width="2517" height="259" key="GridCell.Tab.0.left" timestamp="1600415884842">
+    <state width="2517" height="259" key="GridCell.Tab.0.center/0.0.2560.1440@0.0.2560.1440" timestamp="1600420915440" />
+    <state width="2517" height="259" key="GridCell.Tab.0.left" timestamp="1600420915440">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1237" height="176" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1599337583452" />
-    <state width="2517" height="259" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1600415884842" />
-    <state width="2517" height="259" key="GridCell.Tab.0.right" timestamp="1600415884842">
+    <state width="2517" height="259" key="GridCell.Tab.0.left/0.0.2560.1440@0.0.2560.1440" timestamp="1600420915440" />
+    <state width="2517" height="259" key="GridCell.Tab.0.right" timestamp="1600420915440">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
     <state width="1237" height="176" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1599337583453" />
-    <state width="2517" height="259" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1600415884842" />
+    <state width="2517" height="259" key="GridCell.Tab.0.right/0.0.2560.1440@0.0.2560.1440" timestamp="1600420915440" />
     <state width="2517" height="507" key="GridCell.Tab.1.bottom" timestamp="1599568822249">
       <screen x="0" y="0" width="2560" height="1440" />
     </state>
