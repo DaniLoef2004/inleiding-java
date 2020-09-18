@@ -6,7 +6,7 @@ import java.awt.event.*;
 
 public class JavaTabellen4 extends Applet{
     boolean found;
-    int[] salary = {100, 200, 500, 400, 300,400,150,900};
+    int[] salary = {32,4,3,54,234,46,3,6,233,3,464,5,5,476,2,335,5453,63,532,63,76,2,7,2,74,373,72,523,6347,266,43};
     TextField field;
     Button Okbutton;
     int find;
