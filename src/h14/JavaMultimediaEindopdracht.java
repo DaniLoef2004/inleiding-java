@@ -125,7 +125,7 @@ public class JavaMultimediaEindopdracht extends Applet {
 
         //een knop waarmee je het spel begint
 
-        speelKnop = new Button("Begin!");
+        speelKnop = new Button("                     Begin!                     ");
 
         //een actionlistener voor de knop
 
@@ -201,11 +201,7 @@ public class JavaMultimediaEindopdracht extends Applet {
                             if (pepeAantal % 4 == 1) {
                                 random = Math.random();
                                 computerGetal = new Random().nextInt(3) + 1;
-                                pad = JavaMultimediaEindopdracht.class.getResource("./Pictures/");
-                                pepe = getImage(pad, "090.jpg");
                             } else {
-                                pad = JavaMultimediaEindopdracht.class.getResource("./Pictures/");
-                                pepe = getImage(pad, "090.jpg");
                             }
                             if (pepeAantal % 4 == 2) {
                                 computerGetal = 1;
@@ -222,8 +218,7 @@ public class JavaMultimediaEindopdracht extends Applet {
                                 start = false;
                                 computerGetal = 0;
                                 pepeAantal = 23;
-                                pad = JavaMultimediaEindopdracht.class.getResource("./Pictures/");
-                                pepe = getImage(pad, "090.jpg");
+
                             }
                         }
                         pepeAantal = pepeAantal - computerGetal;
@@ -231,7 +226,7 @@ public class JavaMultimediaEindopdracht extends Applet {
                         tekstvak.setText("");
                         repaint();
 
-                        //ggeft aan wanneer er een verkeerd getal is ingevoerd
+                        //geeft aan wanneer er een verkeerd getal is ingevoerd
 
                     } else {
                         spelerGetal = 0;
@@ -262,7 +257,7 @@ public class JavaMultimediaEindopdracht extends Applet {
                     g.drawString("do processor hield " + computerGetal + " pepes weg", 50, 50);
                 }
                 g.drawString("Pepe aantal: " + pepeAantal + " . Het is jouw beurt nu.", 50, 70);
-                for (int pepes = 0; pepes < (pepeAantal); pepes++) {
+                for (int pepes = 0; pepes < pepeAantal; pepes++) {
                     if (pepes % 4 == 0) {
                         x = 50;
                         y += 50;

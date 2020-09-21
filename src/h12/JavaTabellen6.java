@@ -7,7 +7,7 @@ import java.awt.event.*;
 
 public class JavaTabellen6 extends Applet {
     boolean gevonden;
-    int[] salaris = {32,4,3,54,234,46,3,6,233,3,464,5,5,476,2,335,5453,63,532,63,76,2,7,2,74,373,72,523,6347,266,43};
+    int[] nummers = {32,4,3,54,234,46,3,6,233,3,464,5,5,476,2,335,5453,63,532,63,76,2,7,2,74,373,72,523,6347,266,43};
     int vind, hoeVaak;
     Button okKnop;
     TextField tekstvak;
@@ -28,8 +28,8 @@ public class JavaTabellen6 extends Applet {
             String getal = tekstvak.getText();
             vind = Integer.parseInt(getal);
             int index = 0;
-            while(index < salaris.length) {
-                if(salaris[index] == vind) {
+            while(index < nummers.length) {
+                if(nummers[index] == vind) {
                     gevonden = true;
                     hoeVaak ++;
                 }

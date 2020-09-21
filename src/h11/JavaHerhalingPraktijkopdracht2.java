@@ -10,15 +10,13 @@ public class JavaHerhalingPraktijkopdracht2 extends Applet {
     int teller;
     int teller1;
     int y;
-    String vrouw, man, tafel;
+    String tafel;
 
     public void init() {
         tekstvak = new TextField("", 40);
         knop = new Button("Volgende tafel");
         knop.addActionListener(new knopListener());
         add(knop);
-        vrouw = "";
-        man = "";
         teller = 0;
         teller1 = 0;
     }

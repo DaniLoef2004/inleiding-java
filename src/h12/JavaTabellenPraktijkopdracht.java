@@ -24,8 +24,10 @@ public class JavaTabellenPraktijkopdracht extends Applet {
     boolean foutmelding;
 
     public void init() {
+
         error = "";
         foutmelding = false;
+
         index = 0;
         teller = 0;
 

@@ -10,6 +10,7 @@ public class JavaMethodes extends Applet {
         g.drawLine(x1, y1, x2, y2);
         g.drawLine(x3, y3, x1, y1);
         g.drawLine(x2, y2, x3, y3);
+
     }
 
     public void paint(Graphics g) {
